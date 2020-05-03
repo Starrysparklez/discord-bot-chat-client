@@ -1,0 +1,11 @@
+{
+  "name": "discord-bot-client",
+  "version": "1.0.1",
+  "description": "Chat with other users using bot account",
+  "main": "index.js",
+  "author": "NellyD3v",
+  "dependencies": {
+    "console-read-write": "^0.1.1",
+    "discord.js": "11.5.0"
+  }
+}
